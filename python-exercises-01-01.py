@@ -2,7 +2,7 @@
 
 first_name = "Michelle" # string
 last_name = "Berger" # string
-birth_year = 24 # ganzzahl
+birth_year = 1999 # ganzzahl
 has_license = True # boolean
 
 # Ausgabe der Variablen
